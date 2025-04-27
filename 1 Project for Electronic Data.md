@@ -4,6 +4,8 @@
 MASL is a company that engages in the sales of the following Mobile service providers: **Faiba**, **Gateway**, **Vodafone**, and **SAF**.  
 The company uses representatives who operate in various regions in Nakuru town. Each sales representative presents monthly sales to the manager (Values are in **Ksh**).
 
+<p align="left"> <img src="img/data-electronic.PNG" alt="Electronic Data"> </p>
+
 ---
 
 ## Task: Compute
