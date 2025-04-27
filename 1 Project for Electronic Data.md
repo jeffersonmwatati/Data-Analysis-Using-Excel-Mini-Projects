@@ -124,4 +124,4 @@ Insert a new column called **Award** (Column I).
 
 ---
 
-### Access the complete done workbook here: [Electronics Data Analysis Workbook] (https://github.com/jeffersonmwatati/Data-Analysis-Using-Excel-Mini-Projects/blob/cc51a687b61b1031054d1e8c02f0618e0cee552b/files/Electronic-Data.xlsx)
+### Access the complete done workbook here: [**Electronics Data Analysis Workbook**](https://github.com/jeffersonmwatati/Data-Analysis-Using-Excel-Mini-Projects/blob/cc51a687b61b1031054d1e8c02f0618e0cee552b/files/Electronic-Data.xlsx)
