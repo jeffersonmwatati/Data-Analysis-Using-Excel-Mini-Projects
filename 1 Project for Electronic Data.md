@@ -10,7 +10,7 @@ The company uses representatives who operate in various regions in Nakuru town. 
 
 ## Task: Compute
 
-### 1. Total Sales, Average, Highest, and Lowest Sales for Each Product and Sales Representative
+### 1. For the total sales, average, highest and lowest sales for each product and each sales representative.
 
 #### (a) Total Sales per Sales Representative
 
@@ -58,9 +58,7 @@ The company uses representatives who operate in various regions in Nakuru town. 
 
 ---
 
-### 2. Compute Bonus Points per Sales Representative
-
-Each salesperson earns Bonus points based on the following criteria:
+### 2. Each salesperson earns Bonus points for the sales of each product type based on the following criteria; insert a column Bonuspoint and compute the points of each sales person.
 
 | Condition | Points Awarded |
 |-----------|----------------|
@@ -79,7 +77,7 @@ Insert a new column called **Bonuspoint** (Column H).
 
 ---
 
-### 3. Insert Awards Based on Total Sales
+### 3. Insert a blank column after Bonuspoint called Award and based on the Bonus points earned by each sales representative. Use a function to display the remarks on Awards as follows:
 
 Award assignment rules:
 
@@ -97,14 +95,14 @@ Insert a new column called **Award** (Column I).
 
 ---
 
-### 4. Apply Borders to the Workbook
+### 4. Apply border to the data in the workbook.
 
 - Select the entire data table.
 - Go to **Home > Borders > All Borders**.
 
 ---
 
-### 5. Rotate Product Headings by 15 Degrees
+### 5. Rotate up all the product type headings labels in the worksheet to 15 degrees.
 
 - Select **Faiba**, **Gateway**, **Vodafone**, and **SAF** headers.
 - Go to **Home > Alignment > Orientation > Rotate Text Up**.
@@ -112,14 +110,14 @@ Insert a new column called **Award** (Column I).
 
 ---
 
-### 6. Generate a Column Chart for Total Sales
+### 6. Generate a column chart representing the total sales for each sales representative.
 
 - Select the names and their corresponding total sales.
 - Insert → Charts → Column Chart.
 
 ---
 
-### 7. Copy the Data to a New Sheet
+### 7. Copy the data above to sheet 2 and save it as a calculated sheet.
 
 - Right-click on the sheet tab → **Move or Copy** → check **Create a copy** → move to a new sheet.
 - Rename the new sheet to **Calculated Sheet**.
